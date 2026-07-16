@@ -1,4 +1,4 @@
-import internships from "../data/internships";
+import internships from "../data/Internships";
 import { motion } from "framer-motion";
 import { FaBriefcase } from "react-icons/fa";
 

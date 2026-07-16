@@ -1,4 +1,4 @@
-import contact from "../data/contact";
+import contact from "../data/Contact";
 import { motion } from "framer-motion";
 import {
   FaEnvelope,

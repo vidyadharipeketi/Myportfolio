@@ -1,4 +1,4 @@
-import certifications from "../data/certifications";
+import certifications from "../data/Certifications";
 import { motion } from "framer-motion";
 import { FaCertificate } from "react-icons/fa";
 

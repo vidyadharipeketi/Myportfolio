@@ -1,4 +1,4 @@
-import education from "../data/education";
+import education from "../data/Education";
 import { motion } from "framer-motion";
 import { FaGraduationCap, FaMapMarkerAlt } from "react-icons/fa";
 
