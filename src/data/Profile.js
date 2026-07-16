@@ -1,7 +1,7 @@
 const profile = {
   name: "Peketi Vidyadhari",
 
-  title: "Aspiring Software Engineer | Java | MERN Stack | Machine Learning",
+  title: "Aspiring Software Engineer | Java | MERN Stack |",
 
   description:
     "Computer Science undergraduate passionate about Java, MERN Stack, Machine Learning, and building scalable web applications. Seeking opportunities to contribute to real-world software development projects",
