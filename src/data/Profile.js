@@ -18,7 +18,7 @@ const profile = {
 
   image: "/images/profile.jpeg",
 
-  resume: "/resume/resume.pdf",
+  resume: "/resume/H5resume.pdf",
 };
 
 export default profile;
