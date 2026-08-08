@@ -37,7 +37,28 @@ const projects = [
     github: "",
 
     status: "Ongoing",
-  },    
+  },
+
+  {
+    title:"FitTrack",
+
+    description:
+    "FitTrack is a MERN-based Gym Management System that provides member registration and authentication, membership plan management, trainer and workout management, and payment tracking. It streamlines gym operations through a centralized and user-friendly platform.",
+
+    technologies:[
+      "Express.js",
+      "Node.js",
+      "React.js",
+      "JavaScript",
+      "JWT",
+      "Rest Api",
+      "Postman"
+    ],
+
+     github:"",
+     status:"ongoing",
+  },
+
 ];
 
 export default projects;
