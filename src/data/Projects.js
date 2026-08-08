@@ -37,27 +37,7 @@ const projects = [
     github: "",
 
     status: "Ongoing",
-  },
-
-  {
-    title: "Student Feedback Management System",
-
-    description:
-      "Developed a web-based feedback management system that allows students to submit feedback while enabling administrators to analyze responses and generate reports efficiently.",
-
-    technologies: [
-      "Java",
-      "JSP",
-      "Servlets",
-      "HTML",
-      "CSS",
-      "MySQL"
-    ],
-
-    github: "",
-
-    status: "Completed",
-  },
+  },    
 ];
 
 export default projects;
